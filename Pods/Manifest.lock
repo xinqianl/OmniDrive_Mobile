@@ -1,0 +1,35 @@
+PODS:
+  - ChameleonFramework (2.0.4):
+    - ChameleonFramework/Default (= 2.0.4)
+  - ChameleonFramework/Default (2.0.4)
+  - EChart (0.1.1)
+  - LBBlurredImage (0.2.2)
+  - PNChart (0.8.9):
+    - UICountingLabel (~> 1.2.0)
+  - pop (1.0.9)
+  - RESideMenu (4.0.7)
+  - UICountingLabel (1.2.0)
+  - VBFPopFlatButton (0.0.7):
+    - pop
+
+DEPENDENCIES:
+  - ChameleonFramework
+  - EChart
+  - LBBlurredImage
+  - PNChart
+  - RESideMenu (~> 4.0.6)
+  - VBFPopFlatButton
+
+SPEC CHECKSUMS:
+  ChameleonFramework: 5abe69b1f2a6cc79c3c435fcd9d3d855748225ee
+  EChart: 2c23edc06e72c396d283732c2338711c33d7644d
+  LBBlurredImage: 700634c17922bc2d22343118e7deb6a3ca12db43
+  PNChart: 84774d225c2126ded6c93d4dbe6ae98c3a73c2d2
+  pop: f667631a5108a2e60d9e8797c9b32ddaf2080bce
+  RESideMenu: f24c508404b49c667344c54aba7e590883533958
+  UICountingLabel: 1db4e7d023e1762171eb226d6dff47a7a84f27aa
+  VBFPopFlatButton: 39e48ab56277f3d056734a9b5ec5d0cc60d69778
+
+PODFILE CHECKSUM: 14524eae8fa70b0d3311557d77144113605ee79f
+
+COCOAPODS: 1.0.1
